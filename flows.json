@@ -88,7 +88,7 @@
         "width": 0,
         "height": 0,
         "gtype": "gage",
-        "title": "Hulidity",
+        "title": "Humidity",
         "label": "%",
         "format": "{{value}}",
         "min": 0,
